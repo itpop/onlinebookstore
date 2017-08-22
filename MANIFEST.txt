@@ -1,0 +1,30 @@
+---------------------------------------------------------------
+             
+		Online Book Store - Manifest
+
+---------------------------------------------------------------
+
+
+onlinebookstore
+ |
+   
+ image (image folder)
+ |
+ js (javascript folder)
+ |
+ style (css style folder)
+  
+ |
+   
+ base.php (base php file)  
+ |
+   
+ index.php (home page)
+ |
+ receipt.php (receipt page)
+ |
+ MANIFIEST.txt
+ |
+ README.md
+ |
+ Instruction.pdf
